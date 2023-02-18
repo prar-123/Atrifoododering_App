@@ -1,0 +1,146 @@
+.p-about.html.Flex255 {
+display: flex;
+justify-content: space-around;
+font-family: DM Sans;
+font-weight: 500;
+font-size: 18px;
+color: #696969;
+align-items: center;
+padding-top: 20px;
+padding-bottom: 30px;
+}
+.p-about.html.Flex253 {
+display: flex;
+column-gap: 30px;
+}
+.p-about.html.Flex254 {
+display: flex;
+align-items: center;
+column-gap: 30px;
+}
+.p-about.html.Flex251 {
+display: flex;
+column-gap: 30px;
+}
+.p-about.html.Flex252 {
+display: flex;
+}
+.p-about.html.Flex256 {
+display: flex;
+justify-content: space-around;
+width: 100%;
+box-sizing: border-box;
+}
+.p-about.html.Flex257 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+width: 70%;
+justify-content: center;
+align-items: center;
+}
+.p-about.html.Flex258 {
+display: flex;
+width: 30%;
+align-items: center;
+justify-content: center;
+}
+.p-about.html.Flex261 {
+display: flex;
+box-sizing: border-box;
+}
+.p-about.html.Flex262 {
+display: flex;
+width: 70%;
+right: 100px;
+bottom: 100px;
+background-color: #FF7629;
+justify-content: center;
+}
+.p-about.html.Button44 {
+color: #fff;
+background-color: #FF7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: ;
+cursor: pointer;
+user-select: none;
+font-family: DM Sans;
+}
+.p-about.html.Button45 {
+color: ;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+font-family: DM Sans;
+}
+.p-about.html.Link16 {
+font-family: DM Sans;
+font-weight: 500;
+}
+.p-about.html.Link17 {
+font-family: DM Sans;
+font-weight: 500;
+}
+.p-about.html.Link18 {
+font-family: DM Sans;
+font-weight: 500;
+}
+.p-about.html.Link19 {
+font-family: DM Sans;
+}
+.p-about.html.Link20 {
+cursor: pointer;
+font-family: DM Sans;
+font-weight: 500;
+}
+.p-about.html.Image91 {
+;
+}
+.p-about.html.TextBox201 {
+width: 55%;
+font-size: 46px;
+font-family: DM Sans;
+font-weight: 500;
+}
+.p-about.html.TextBox202 {
+width: 55%;
+font-size: 16px;
+font-family: DM Sans;
+font-weight: 500;
+color: #4c4c4c;
+}
+.p-about.html.Image92 {
+right: 100px;
+position: relative;
+top: 100px;
+width: 400px;
+border-radius: 50px;
+}
+.p-about.html.Image93 {
+width: 600px;
+bottom: 70px;
+position: relative;
+border-radius: 60px;
+}
